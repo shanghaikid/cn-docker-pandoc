@@ -2,10 +2,10 @@
 ## Contains
 - Ubuntu:18.04 base
 - Latest TeX Live
-    - Japanese packages
+    - chinese packages
     - LuaTeX
     - latexmk etc...
-- Japanese Fonts (Noto)
+- Chinese Fonts (WenQuanYi Micro Hei)
 - [jgm/pandoc](https://github.com/jgm/pandoc)
 - [lierdakil/pandoc-crossref](https://github.com/lierdakil/pandoc-crossref)
 - [jgm/pandocfilters](https://github.com/jgm/pandocfilters) 
